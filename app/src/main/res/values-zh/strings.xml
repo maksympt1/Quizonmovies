@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">电影测验</string>
+    <string name="breaking_bad">絕命毒師</string>
+    <string name="correct">正确</string>
+    <string name="deadpool">惡棍英雄：死侍</string>
+    <string name="false_0">假</string>
+    <string name="friends">老友记/六人行</string>
+    <string name="game_of_thrones">權力的遊戲</string>
+    <string name="iceberg">冰山</string>
+    <string name="incorrect">不正确</string>
+    <string name="la_la_land">樂來越愛你</string>
+    <string name="mad_men">广告狂人</string>
+    <string name="question_1">问题1：IMDB中有一个电视节目出现在“排名前五的最高评分”和“五大最受欢迎的”列表中。 哪一个？</string>
+    <string name="question_2">问题2：从以下列表中，选择2016年赢得奥斯卡的“最佳图片”和“摄影”的2部电影？</string>
+    <string name="question_3">问题3：导致泰坦尼克号号的船崩溃？</string>
+    <string name="question_3_hint">（一个词）</string>
+    <string name="question_4">问题4：如果一部手机在拍摄阿凡达时，James Cameron会用钉枪将其钉在墙上。</string>
+    <string name="question_5">问题5：阿凡达是有史以来最昂贵的电影。</string>
+    <string name="question_6">问题6：李小龙是如此之快，他不得不让他的电影慢下来看他的动作。</string>
+    <string name="spotlight">驚爆焦點</string>
+    <string name="submit_answers">提交答案</string>
+    <string name="the_revenant">神鬼獵人</string>
+    <string name="true_1">真正</string>
+    <string name="image_description">電影院</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz on movies</string>
+    <!-- Questions -->
+    <string name="question_1">Question 1:\nThere is one TV show that appears in both, \'Top 5 highest rated\' and \'Top 5 most popular\' lists in IMDB. Which?</string>
+    <string name="question_2">Question 2:\nFrom the following list, select 2 movies that won an oscar for \'Best picture\' and \'Cinematography\' in 2016?</string>
+    <string name="question_3">Question 3:\nWhat caused the ship from Titanic to crash?</string>
+    <string name="question_4">Question 4:\nIf a cell phone has rung during filming of Avatar, James Cameron would nail it to the wall using a nail gun.</string>
+    <string name="question_5">Question 5:\nAvatar was the most expensive movie ever made.</string>
+    <string name="question_6">Question 6:\nBruce Lee was so fast that he had to show his films slower to see his movements.</string>
+    <!-- Movies (some of them have translations into other languages) -->
+    <string name="breaking_bad">Breaking Bad</string>
+    <string name="friends">Friends</string>
+    <string name="game_of_thrones">Game of Thrones</string>
+    <string name="mad_men">Mad Men</string>
+    <string name="la_la_land">La La Land</string>
+    <string name="spotlight">Spotlight</string>
+    <string name="deadpool">Deadpool</string>
+    <string name="the_revenant">The Revenant</string>
+    <!-- Additional words -->
+    <string name="true_1">True</string>
+    <string name="false_0">False</string>
+    <string name="submit_answers">Submit Answers</string>
+    <string name="iceberg">Iceberg</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <!-- Tools -->
+    <string name="image_description">Movie theater</string>
+    <string name="question_3_hint">(one word)</string>
+</resources>

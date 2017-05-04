@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz sobre las películas</string>
+    <string name="breaking_bad">Breaking Bad</string>
+    <string name="correct">Correcto</string>
+    <string name="deadpool">Deadpool</string>
+    <string name="false_0">Falso</string>
+    <string name="friends">Friends</string>
+    <string name="game_of_thrones">Juego de tronos</string>
+    <string name="iceberg">Iceberg</string>
+    <string name="incorrect">Incorrecto</string>
+    <string name="la_la_land">La La Land</string>
+    <string name="mad_men">Mad Men</string>
+    <string name="question_1">Pregunta 1: Hay un programa de televisión que aparece en las listas \"Top 5 más valoradas\" y \"Top 5 más populares\" de IMDB. ¿Cual?</string>
+    <string name="question_2">Pregunta 2: En la siguiente lista, seleccione 2 películas que ganaron un Oscar por \'Mejor película\' y \'Cinematografía\' en 2016?</string>
+    <string name="question_3">Pregunta 3: ¿Qué causó que el barco del Titanic se estrellara?</string>
+    <string name="question_3_hint">(una palabra)</string>
+    <string name="question_4">Pregunta 4: Si un teléfono celular ha tocado durante la filmación de Avatar, James Cameron lo clavaría en la pared usando una pistola de clavos.</string>
+    <string name="question_5">Pregunta 5: Avatar fue la película más cara jamás hecha.</string>
+    <string name="question_6">Pregunta 6: Bruce Lee fue tan rápido que tuvo que mostrar sus películas más lentamente para ver sus movimientos.</string>
+    <string name="spotlight">En primera plana</string>
+    <string name="submit_answers">Presentar Respuestas</string>
+    <string name="the_revenant">El Renacido</string>
+    <string name="true_1">Cierto</string>
+    <string name="image_description">Sala de cine</string>
+</resources>
